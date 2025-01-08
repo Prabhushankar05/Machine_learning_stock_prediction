@@ -56,7 +56,3 @@ To run this notebook, you will need:
 ## Contributing
 
 If you have suggestions for improving the project, feel free to fork the repository, make changes, and submit a pull request.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
